@@ -1,4 +1,5 @@
-body {
+body,
+html {
   background-color: #000;
   margin: 0;
   padding: 0;
@@ -13,21 +14,25 @@ body {
 }
 
 .text-wrapper {
-  background-color: #fff;
+  background-color: #ddd  ;
   width: 304px;
   margin: 10px auto;
 }
 
 .yellow-block {
   background-color: #ffa500;
-  width: 324px;
+  width: 326px;
   margin: 10px auto;
 }
 
 .blue-block {
   margin: 19px 20px;
   background-color: #308dc0;
-  width: 344px;
+  width: 348px;
+}
+
+.first {
+  margin-top: 20px;
 }
 
 .line {
